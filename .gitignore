@@ -1,0 +1,5 @@
+*.db
+*.log
+/TODO.txt
+target/
+bin/
